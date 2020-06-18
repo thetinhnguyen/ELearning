@@ -1,0 +1,6 @@
+{
+    "env": {
+        "URL_DATABASE": "mongodb://localhost/ELearning",
+        "JWT_KEY": "abcdjdskdajajajnaja"
+    }
+}
